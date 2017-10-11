@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeQuotes'
+
+include ':app'
