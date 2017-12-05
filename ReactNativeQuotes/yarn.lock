@@ -3347,9 +3347,9 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-elevated-view@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/react-native-elevated-view/-/react-native-elevated-view-0.0.4.tgz#a92ba76ef62c1fc8f31e3097df8972c4acbf3868"
+react-native-elevated-view@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-elevated-view/-/react-native-elevated-view-0.0.5.tgz#a4383d63adcf204ea07c95ab13bd295679bf0a87"
 
 react-native-responsive-dimensions@^1.0.1:
   version "1.0.1"

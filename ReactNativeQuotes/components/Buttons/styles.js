@@ -21,7 +21,8 @@ export const styles = StyleSheet.create({
             height: 3
         },
         shadowRadius: 2,
-        shadowOpacity: 0.5
+        shadowOpacity: 0.5,
+        margin : responsiveHeight(2),
     },
     icon : {
         fontSize : responsiveFontSize(4),
